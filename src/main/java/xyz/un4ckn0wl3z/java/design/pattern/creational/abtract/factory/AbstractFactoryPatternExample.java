@@ -1,4 +1,4 @@
-package xyz.un4ckn0wl3z.java.xyz.un4ckn0wl3z.java.design.pattern.creational.abtract.factory;
+package xyz.un4ckn0wl3z.java.design.pattern.creational.abtract.factory;
 
 import java.io.BufferedReader;
 import java.io.IOException;
